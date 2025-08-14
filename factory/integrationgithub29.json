@@ -1,0 +1,9 @@
+{
+	"name": "integrationgithub29",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f73c5567-6af3-4fdc-a93e-5b0dca38c7d5",
+		"tenantId": "526dc4a9-53b5-491d-9bc2-5ed8fd521888"
+	}
+}
